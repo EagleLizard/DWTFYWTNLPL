@@ -1,15 +1,5 @@
 # DWTFYWTNL(Do Whatever The Fuck You Want To No LLMs) Public License
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="media/cc.svg">
-  <source media="(prefers-color-scheme: light)"  srcset="media/cc-light.svg">
-  <img alt="cc icon" src="media/cc.svg" width="50"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="media/cc-0.svg">
-  <source media="(prefers-color-scheme: light)"  srcset="media/cc-0-light.svg">
-  <img alt="cc zero icon" src="media/cc-0.svg" width="50"/>
-</picture>
+<img alt="cc icon" src="media/cc.svg" width="50" background="white"/><img alt="cc zero icon" src="media/cc-0.svg" width="50"/>
 
 **🄍 CC0 1.0 Universal** - _no rights reserved_
 
